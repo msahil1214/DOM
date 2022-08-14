@@ -1,1 +1,1 @@
-# paint-github-8dab9
+# this is for practecing DOM and JS
